@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Antlr4.Runtime.Standard" Version="4.9.2" />
+    <None Update="exmaple.md" CopyToOutputDirectory="Always"/>
+  </ItemGroup>
+
 </Project>

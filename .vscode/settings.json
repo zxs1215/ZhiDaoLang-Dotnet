@@ -4,6 +4,7 @@
         "mode": "external",
         "language": "CSharp",
         "listeners": false,
-        "visitors": true
+        "visitors": true,
+        "encoding " : "UTF-8"
     }
 }
